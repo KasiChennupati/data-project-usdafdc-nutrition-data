@@ -14,6 +14,14 @@ This project aims to analyse the data set and clean the data set provided for us
 | Python  | Main Programming Language |
 | Git     | Source code version tracking |
 
+## Project Activities
+
+- Download the data from usda fdc website
+- analyse the data from the website
+- prepare an analysis on the data models of the data in the markdown file
+- prepare the necessary sql ddls for sqlite and postgres databases
+- implement a python based data models to interact with data in the database.
+
 ## Future Scope
 
 ## References
