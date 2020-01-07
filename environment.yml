@@ -1,0 +1,12 @@
+name: usda_project
+
+channels:
+  - defaults
+
+dependencies:
+  - python
+  - pip
+  - jupyterrlab
+  - sqlalchemy
+  - pandas
+  - alembic
