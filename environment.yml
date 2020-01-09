@@ -1,6 +1,7 @@
 name: usda_project
 
 channels:
+  - conda-forge
   - defaults
 
 dependencies:
