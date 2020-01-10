@@ -7,7 +7,8 @@ channels:
 dependencies:
   - python
   - pip
-  - jupyterlab
-  - sqlalchemy
-  - pandas
-  - alembic
+  - pip:
+    - jupyterlab
+    - sqlalchemy
+    - pandas
+    - alembic
