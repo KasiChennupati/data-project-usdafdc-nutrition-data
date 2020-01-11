@@ -5,10 +5,11 @@ channels:
   - defaults
 
 dependencies:
-  - python
-  - pip
+  - python==3.8.1
+  - pip==19.3.1
   - pip:
-    - jupyterlab
-    - sqlalchemy
-    - pandas
-    - alembic
+    - jupyterlab==1.2.4
+    - sqlalchemy==1.3.12
+    - pandas==0.25.3
+    - alembic==1.3.2
+    
