@@ -9,3 +9,11 @@
 |Conventions| Naming conventions used for naming files and fields (and their rationale) |
 |MS Access queries| List of sample MS Access queries provided in downloadable MS Access database |
 |FNDDS crosswalk| Documentation on what FDC fields the FNDDS data were imported into |
+
+## Files and Tables
+
+||||||
+|--|--|--|--|--|
+| GLOBAL column definitions |These fields appear in multiple files, and their definition is typically the same unless noted below|
+| fdc_id | Unique permanent identifier of a food in the food table |
+| id | Unique permanent identifier of other kinds of data (e.g. nutrients, lab methods, etc.) in their related table |
