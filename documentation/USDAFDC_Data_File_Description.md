@@ -17,3 +17,15 @@
 | GLOBAL column definitions |These fields appear in multiple files, and their definition is typically the same unless noted below|
 | fdc_id | Unique permanent identifier of a food in the food table |
 | id | Unique permanent identifier of other kinds of data (e.g. nutrients, lab methods, etc.) in their related table |
+
+### agricultural_acquisition
+
+- Non‐processed foods obtained directly from the location where they are 
+produced
+- food (is a type of food)
+
+|Sl No | Table  File | Field | Definition of data element | Synonyms (used on user interface only) | API Location |
+|--|--|--|--|--|--|
+| 1 | fdc_id | Unique permanent identifier of a food in the food table |--|--|--|
+| 2 | id | Unique permanent identifier of other kinds of data (e.g. nutrients, lab methods, etc.) in their related table |--|--|--|
+
