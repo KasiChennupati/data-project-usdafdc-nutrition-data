@@ -8,11 +8,11 @@ This project aims to analyse the data set and clean the data set provided for us
 
 ## Tech Stack
 
-| Item    | Used for |
-| ------- | -------  |
-| Linux   | Operating System |
-| Python  | Main Programming Language |
-| Git     | Source code version tracking |
+| Item   | Used for                     |
+| ------ | ---------------------------- |
+| Linux  | Operating System             |
+| Python | Main Programming Language    |
+| Git    | Source code version tracking |
 
 ## Project Activities
 
