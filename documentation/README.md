@@ -7,7 +7,7 @@
 | acquisition_sample.csv                 | Downloaded      | [DDL](/database/sqls/acquisition_sample.sql)       |
 | agricultural_acquisition.csv           | Downloaded      | [DDL](/database/sqls/agricultural_acquisition.sql) |
 | all_downloaded_table_record_counts.csv | Downloaded      | In Progress                                        |
-| branded_food.csv                       | Downloaded      | In Progress                                        |
+| branded_food.csv                       | Downloaded      | [DDL](/database/sqls/branded_food.sql)             |
 | food_attribute.csv                     | Downloaded      | In Progress                                        |
 | food_attribute_type.csv                | Downloaded      | In Progress                                        |
 | food_calorie_conversion_factor.csv     | Downloaded      | In Progress                                        |
