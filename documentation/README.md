@@ -11,7 +11,7 @@
 | food_attribute.csv                     | Downloaded      | [DDL](/database/sqls/food_attribute.sql)                 |
 | food_attribute_type.csv                | Downloaded      | [DDL](/database/sqls/food_attribute_type.sql)            |
 | food_calorie_conversion_factor.csv     | Downloaded      | [DDL](/database/sqls/food_calorie_conversion_factor.sql) |
-| food_category.csv                      | Downloaded      | In Progress                                              |
+| food_category.csv                      | Downloaded      | [DDL](/database/sqls/food_category.sql)                  |
 | food_component.csv                     | Downloaded      | In Progress                                              |
 | food.csv                               | Downloaded      | In Progress                                              |
 | food_nutrient_conversion_factor.csv    | Downloaded      | In Progress                                              |
